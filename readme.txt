@@ -1,6 +1,6 @@
 Readme!
 
-ForgetMeNotFlora is a simple webscraper tool for botanists to create PDF flashcards containing key taxonomic information.
+ForgetMeNotFlora is a simple webscraper tool for botanists to create PDF flashcards to help memorize key taxonomic information and botanical features.
 
 Usage:
 First, download the files from this repository to your computer.
